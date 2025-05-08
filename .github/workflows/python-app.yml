@@ -33,4 +33,4 @@ jobs:
 
       - name: Format with Black
         run: |
-          black --check
+          black --check .
