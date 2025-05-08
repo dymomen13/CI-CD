@@ -1,3 +1,6 @@
+"""Implementacja funkcji"""
+
+
 def add(a: int, b: int) -> int:
     """
     Funkcja dodająca dwie liczby.
